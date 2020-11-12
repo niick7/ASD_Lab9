@@ -1,4 +1,4 @@
-package miu.asd.lab9;
+package miu.asd.lab9.b;
 
 public class Car {
   public int changeSpeed(int speed){

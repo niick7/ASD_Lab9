@@ -1,4 +1,4 @@
-package miu.asd.lab9;
+package miu.asd.lab9.b;
 import javax.swing.JSlider;
 import javax.swing.UIManager;
 
